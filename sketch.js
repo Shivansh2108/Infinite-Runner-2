@@ -32,7 +32,7 @@ function preload(){
   gameOverImg = loadImage("gameOver.png");
   restartImg = loadImage("restart.png");
   bgImage = loadImage("download.jfif");
-  trexImg = loadAnimation("trex-1.png","trex-2.png","trex-3.png");
+  
 }
 
 function setup() {
